@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\britt\\reposTC\\SyntaxSugarExercise\\SyntaxSugarExercise\\SyntaxSugarExercise.csproj",
+      "projectUniqueName": "C:\\Users\\britt\\reposTC\\Ternary-syntaxSugarExercise\\SyntaxSugarExercise\\SyntaxSugarExercise.csproj",
       "projectName": "SyntaxSugarExercise",
-      "projectPath": "C:\\Users\\britt\\reposTC\\SyntaxSugarExercise\\SyntaxSugarExercise\\SyntaxSugarExercise.csproj",
+      "projectPath": "C:\\Users\\britt\\reposTC\\Ternary-syntaxSugarExercise\\SyntaxSugarExercise\\SyntaxSugarExercise.csproj",
       "packagesPath": "C:\\Users\\britt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\britt\\reposTC\\SyntaxSugarExercise\\SyntaxSugarExercise\\obj\\",
+      "outputPath": "C:\\Users\\britt\\reposTC\\Ternary-syntaxSugarExercise\\SyntaxSugarExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\britt\\AppData\\Roaming\\NuGet\\NuGet.Config",
